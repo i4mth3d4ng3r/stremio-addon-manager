@@ -2,7 +2,7 @@
   <section id="features">
     <div class="note">
       <strong>Note:</strong> 
-      This is an instance built from <a href="https://github.com/redd-raven/stremio-addon-manager" target="_blank">my fork</a> of <a href="https://github.com/redd-raven/stremio-addon-manager" target="_blank">redd-raven's fork</a> of <a href="https://github.com/pancake3000/stremio-addon-manager" target="_blank">pancake3000's addon manager</a>.<br>
+      This is an instance built from <a href="https://github.com/Viren070/stremio-addon-manager" target="_blank">my fork</a> of <a href="https://github.com/redd-raven/stremio-addon-manager" target="_blank">redd-raven's fork</a> of <a href="https://github.com/pancake3000/stremio-addon-manager" target="_blank">pancake3000's addon manager</a>.<br>
       This instance allows you to rename or delete catalogues.<br><br>
       Full credit goes to pancake3000 for the original addon manager and redd-raven for the functionality to rename or delete catalogues.<br>
       I have only hosted redd-raven's fork and not added any additional functionality.
@@ -59,7 +59,7 @@
 
 <style scoped>
 .note {
-    background-color: #ffeb3b;
+    background-color: #193c47;
     padding: 10px;
     border-radius: 4px;
     margin-bottom: 20px;
